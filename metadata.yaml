@@ -1,0 +1,46 @@
+_repo: The-Discovery-and-Conquest-of-the-Molucco-and-Philippine-Islands.the-Streights-of-Magellan-an__43451
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Stevens, John
+    alias: Stephens, John
+    deathdate: 1726
+    gutenberg_agent_id: '43774'
+    url: http://www.gutenberg.org/2009/agents/43774
+covers:
+- cover_type: archival
+  image_path: 43451-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Leonardo de Argensola, Bartolomé
+    aliases:
+    - Arensola, Bartolomé Leonardo de
+    - De Argensola, Bartolomé Leonardo
+    - Leonardo de Argensola, Bartholomew
+    - Argensola, Bartolomé Leonardo de
+    - Leonardo y Argensola,  Bartolomé Juan
+    - Leonardo de Argensola, Bartolome
+    birthdate: 1562
+    deathdate: 1631
+    gutenberg_agent_id: '42213'
+    url: http://www.gutenberg.org/2009/agents/42213
+description: ''
+gutenberg_issued: '2013-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43451'
+  lccn: 05008532
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maluku (Indonesia) -- History'
+- !lcc 'DS'
+- !lcsh 'Philippines -- History'
+title: "The Discovery and Conquest of the Molucco and Philippine Islands.\r\nContaining\
+  \ their History, Ancient and Modern, Natural and Political: Their Description, Product,\
+  \ Religion, Government, Laws, Languages, Customs, Manners, Habits, Shape, and Inclinations\
+  \ of the Natives. With an Account of many other adjacent Islands, and several remarkable\
+  \ Voyages through the Streights of Magellan, and in other Parts."
+url: http://www.gutenberg.org/ebooks/43451
